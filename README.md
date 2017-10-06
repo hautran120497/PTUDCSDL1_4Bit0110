@@ -5,7 +5,7 @@
 
 *Danh Sách Thành viên:*
 
-|Họ Và Tên	            |MSSV	         |Email	                           |SĐT1          |
+|Họ Và Tên	            |MSSV	         |Email	                           |SĐT          |
 |-----------------------|--------------|---------------------------------|--------------|
 |Lê Quang Hoài Đức	    |1560142	     |hoaiduc.khtn@gmail.com	         |0973877428    |
 |Trần Hoàng Thanh Hậu   |1560170	     |hautran1204@gmail.com	           |0968990372    |
