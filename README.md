@@ -1,7 +1,7 @@
 # PTUDCSDL1
 ## 4Bit0110
 Phát triển ứng dụng cơ sở dữ liệu 1 
-Trang Git làm việc của nhóm ### [4Bit0110] 
+Trang Git làm việc của nhóm ####4Bit0110
 
 Danh Sách Thành viên:
 
